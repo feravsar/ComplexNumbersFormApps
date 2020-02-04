@@ -1,0 +1,10 @@
+C:\Users\AYSIZGECE\source\repos\ComplexNumbersFormApps2\ComplexNumbersFormApps2\bin\Debug\ComplexNumbersFormApps2.exe.config
+C:\Users\AYSIZGECE\source\repos\ComplexNumbersFormApps2\ComplexNumbersFormApps2\bin\Debug\ComplexNumbersFormApps2.exe
+C:\Users\AYSIZGECE\source\repos\ComplexNumbersFormApps2\ComplexNumbersFormApps2\bin\Debug\ComplexNumbersFormApps2.pdb
+C:\Users\AYSIZGECE\source\repos\ComplexNumbersFormApps2\ComplexNumbersFormApps2\obj\Debug\ComplexNumbersFormApps2.csprojAssemblyReference.cache
+C:\Users\AYSIZGECE\source\repos\ComplexNumbersFormApps2\ComplexNumbersFormApps2\obj\Debug\ComplexNumbersFormApps2.Form1.resources
+C:\Users\AYSIZGECE\source\repos\ComplexNumbersFormApps2\ComplexNumbersFormApps2\obj\Debug\ComplexNumbersFormApps2.Properties.Resources.resources
+C:\Users\AYSIZGECE\source\repos\ComplexNumbersFormApps2\ComplexNumbersFormApps2\obj\Debug\ComplexNumbersFormApps2.csproj.GenerateResource.cache
+C:\Users\AYSIZGECE\source\repos\ComplexNumbersFormApps2\ComplexNumbersFormApps2\obj\Debug\ComplexNumbersFormApps2.exe
+C:\Users\AYSIZGECE\source\repos\ComplexNumbersFormApps2\ComplexNumbersFormApps2\obj\Debug\ComplexNumbersFormApps2.pdb
+C:\Users\AYSIZGECE\source\repos\ComplexNumbersFormApps2\ComplexNumbersFormApps2\obj\Debug\ComplexNumbersFormApps2.sonuc.resources
